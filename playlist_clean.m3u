@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Eltrecetv",Eltrecetv
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
+#EXTINF:-1 tvg-name="Tn",Tn
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4ebbc256-b1aa-463f-922a-8e3a87a622a8:SCL2/master.m3u8
+#EXTINF:-1 tvg-name="RAI 1 en Italiano" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/rai1.jpg",RAI 1 en Italiano
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="El Garage TV" tvg-logo="https://5900.tv/wp-content/uploads/2023/06/garage.jpg",El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-name="Canal 20 Villa María" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/canal20vm.jpg",Canal 20 Villa María
+https://sae12.playlist.ttvnw.net/v1/playlist/CrwGuYL-oolu5THthziS-cc6_2b_L5aZB-4jN0Sm_9Jx6tVl63Aprl5Qw-WEiw59XaCE1KiaxWytkXKjIy5GsZq01yudbc9esQeWyLxSYVsmoq75ISMh-1UxNvgS6WyYPAu6FlkQOk7XZY7WCgss1AX4A9-8NMecYNr40yvSEV5m8YcE1YrIkxlJqCnb_qUp15GeVd0wXWsVmzZiNkfxoao_2KjOX4gq_ceuxO-9eJYuAyDJTewx2o2ByfhWe0nJsaVW3_BiUXp0RjX9HfiaRqDKhP2rZSmGNUYMo8fmu9E-L5K3d8LcPzAYzecb598iWADHNxbvRXyhLxsShHxuJ6uFY4VINrCvUKPgwoPoTxLraUPzcYWe5S1O0aT31qM4NUC9Wt8F2n3i83rxTY_r_tdTsvCvTbWnDSn4X8jkyrOryxytcCDbdvlT2OotyTYj3F-hk9idofMDULaZL_cJ1nxT71KOcEWUIsJ_DbPtzyY3yZo1xv1YL6fnalFhb-cn16UO__t24DZXw7xJwN0kw6Zs-8jnfVHm5WnhTZBskNAb3O5GrctKgGWar5RCyPERJ5zHsBIFYHj2RxtfBxxGfFOwS7YbC_Cbwr11R1OkpEFUfCtHmvXetBKHN5PTGcsYLmdDwrEDZ7U9p6IB5NBB0v2ny19e-a_RFZGXW120NkOEcVLtN6-w3DMOFnh4ygu04_Uvyy4IIs_IwXxfzmYU2G9469gp5vMJ-2FSV8vji9i07tzJuS8RHdcOtTTOReODf6YC6FIvbN_5b26LVJNe09rSY0QSxZA6EsQXZ5MSnnExziFwHu13mqv6AcIJEVGPA6mOq_0S59axi5xlHv_ORCKWwQrYcVx4gTtfu6jVk_PISdaW0SVcgu7631tCa9woWZpC-Qc_hbEmHbqTL83TDvfVh-mdCWzNamP_tMANYOzzdzc2TQKs8xpSDPLUujV3ikQocbg2knQYTzDrnUYMqIc4-aNsQwOU-CBpWtBJKJzaTiURB0cEyIoxQ-rekJZKOu9N_WgoUHZ-eeA62hkYin--i0_ycYxuI6u584aGvLRa1rZjtsOaoUAxYW4EsybGcj9OfADeOPMe8KD2cD2wGgyTgvyAK4AT8zsrAwEgASoJdXMtZWFzdC0yMNcO.m3u8
+#EXTINF:-1 tvg-name="Uniteve Villa María" tvg-logo="https://5900.tv/wp-content/uploads/2018/08/uniteve-logo.jpg",Uniteve Villa María
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-name="Ciudad Mágica TV" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/ciudad-magica.jpg",Ciudad Mágica TV
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://5900.tv/wp-content/uploads/2023/06/canal9-logo.jpg",Canal 9
+https://usher.ttvnw.net/api/channel/hls/elnueveenvivo.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMDBmZGViYmEtN2E1Yy00NWZjLTkzZTMtNjUwN2Y2YjNhY2Q3IiwiQ2xpZW50QXBwIjoid2ViIn0%3D&allow_source=true&browser_family=safari&browser_version=0.0&enable_score=true&fast_bread=true&include_unavailable=true&lang=es&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=3177647&parent_domains=twitchplayer&platform=web&play_session_id=17a6a84c17a54ea9b1761c44078d33e9&player_backend=mediaplayer&player_version=1.50.0-rc.4&playlist_include_framerate=true&reassignments_supported=true&sig=836f57720e4aa4084b05b8646e727daaa08aed8f&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueveenvivo%22%2C%22channel_id%22%3A1307193798%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22ce3979fbd3278c99%22%2C%22expires%22%3A1774029991%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.14.41.153%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/Net-TV.jpg",Net TV
+https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 Río Negro" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/canal10rn.jpg",Canal 10 Río Negro
+https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Neo TV" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/NeoTV-1.jpg",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-name="Canal 13 Rio Cuarto" tvg-logo="https://5900.tv/wp-content/uploads/2021/07/canal13-rio4.jpg",Canal 13 Rio Cuarto
+https://sae12.playlist.ttvnw.net/v1/playlist/CsEGRV7qlMGOHj6KkhNyJrc_Z8lfmKXM30uiMFRP7oWVA5tRmTcNYV_xM7b7_s91w2xyUZWfTpRnsUjmF8kjv_kWzuyFgXbGdvZU52uw9vlkcBid_YFH78jpspmIiWlkXqNEsxV4pIgf2RD4lqMwcUcVtCzNHBJ3IU3MV24fsLv4P322GUgKov_FcXzEDYYhhNnFOYYmqkN7rs4DnfqzmoomcUi2GDbEkDVMFnZE4L6vmOMsoYiEnXZMtUdD9NYVd1VZPRS6DKctgJFK__806_U2aK04RWtchl7wooLmtZqZWfaHlsIhrYGqjlnHXhH_NO1-hx5xUrsSlBnJXei1vnw4gCEU_fJ5oOiTwMWi4_0i7sn7qttyOoYaJSHfnPUcQOXfQKfTTDHlejgiL7a4pSWe5jGUIMQQi-JLAI40EdNqL0t_FKn6gbdapaxJ0YeazfBIKHBVL0flZApnbsmiLd1YAoZwCSROYAKeme8N3b1PqVqFt-lsh4RT4V01jyvS4dWCtv7pYF1w7K_tv0e8vwY2EA1c2DqzdvdI7t0VzxvzdR6CgOTABbC3tgxg-cto-ICkjL68aFqaTzN5gRoIgiR1tzKiF6g-MBcwxECfWekzslkSiaKAZ4jS1pggk8oTOSaul66X6RRGU-sGtL3XIVcYKFOCkckaQ_nXTTQPfMR6SjhhLwYsFG0UtOuPkq5M-SlE4zBsO0oHbqI2EyjkuYvBF-anW5DRnBUU6a2OrTlUMuTAaWFlNC6UDq9L1F23_1glfOSJmy9krZPjpss1nNbFBKaKfJQRje_0Jy9MXC4izjRR67pchQUaIchJDgop6hwhm-DptPeEKUCkwvOJ4iy9Ie43JzclC4YS0BSGcYOlOtNCJ9ijQbs6nBmAX314yo-F5am-EOsIwSa-YDF4Bf9qTTmF6IX5MDycTpWwP3dsIaEgx6kf2w82ESghNZmvxFOrpVyR9H4JR_cpZLbdZTspGuq62d2YXX7q2pi3dUxyea7QhwVTspXlFG9S9Po1_rhpcxzhMq_wvoCJHzNHMFQyQk-OC9Sd7WizfUGnfuED6oqh_IvebCrceqMK0Rs9jTKgmPMRozXUT7hoDYHuF19uk4UaDEhLWSOv-wA7HzVtfSABKgl1cy1lYXN0LTIw1w4.m3u8
+#EXTINF:-1 tvg-name="UniRío TV Rio Cuarto" tvg-logo="https://5900.tv/wp-content/uploads/2025/06/unirio.jpg",UniRío TV Rio Cuarto
+https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Canal Showsport" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/showsport.jpg",Canal Showsport
+https://sae12.playlist.ttvnw.net/v1/playlist/CqcGY7GgKr7Q-EprECsl2jIMhECRjKNbEG69n7mNNPGeVyoOeLNjBpuKpnPPctZXwIe4pBq7gHUVKWGsKsAeDA8MdldQwTZwDoelVTaE6v3y-HdyerUVMsbmCVT4h9BzqiCrQDaeS20ZYOLBR1nsawFPVYeqzCDdiZk8tvvAeSLDMdv7xAmzxjA-4ul0xPpU-oqoN4LymgNA8AcCaoX08_LC6oT2-Q-7OFaM3p6dbfPnNcVy71cFCa1Q0Gh7e3d8W0dBF97HTXfhGqZnvQCunFHWzMNRj5b1foGUtIEDZ7wnwMFEY6THl6ni0kfTMKnOoNrPCeW6d8OQ0xigN7WtZAdJDOZwSWtG0ID7xqDcF1TXQfrU97EzrRPsfgbWkvwRJ82I-7b6gzqKPc7y17pOvvnBSyXbpSeGgtmDu0se1cCEFR-VgpCbqZRZ33u0yYkx3Oh9PKTG8_7ifYwZrDiOs2f58A1pAUOMbVMfxXTSp-Rrs7DohV4o97lHVSMK1M1Jnrfxm7kjCorZmY1PezAuqpFoZSYFttBgonWy4EZkWEcd5KFNh7zhsHM5mcCcWJheEzgTaMYVXlUJFCQY7hY7RbCsoUlF_Mz8k58qhHmftIdpc7c2n5JWSkMf-Oc5DBV2wF8IuU9knpl-J0dZyIx4I23QLrHZZAP0L2bryvYzEKVi0lky8JIHYkmXpG1j0xfzFbvsd0PK-R_hWGCdACTfVqwAnkghqXHcVpFcKhrcDss26GIVWPTFLxvpdfUs7rxIS15LxqnRsy9Mu20j_T-YPcLrQfZEdDGS5nPoCHcLCdTqiI9dp4V_9ZPboFP32TN8-88vvWnGDRO2ptIylLeQzDfaJPxvEQXEzC93H3DS6vd1PuAXrOOA3V58rIEa5PRZiFAMMub_qKqyeVQHmvTaBImW-nYTLaZu1u-hXhF3C-WPEZjjQRZP3aYz3pfyhu4z_xzcYwLnd677wfTISEeeXreiTDuArSb7vbhIHjioJMNMxsc2ZRHrbBAFJ9kGwgm4NWttyRmS8MmIEJlTS-Ij9wO-ZFss9ub2IFkGb1EYXX8YpgS0lcIiHDSdGgzAXOsjtaQGx9rGNZkgASoJdXMtZWFzdC0yMNcO.m3u8
+#EXTINF:-1 tvg-name="Canal 50 Morteros" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/morteros.jpg",Canal 50 Morteros
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1 tvg-name="Teledigital Pascanas" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/teledigital-pascanas.jpg",Teledigital Pascanas
+https://usher.ttvnw.net/api/channel/hls/teledigitalpascanas.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMDBmZGViYmEtN2E1Yy00NWZjLTkzZTMtNjUwN2Y2YjNhY2Q3IiwiQ2xpZW50QXBwIjoid2ViIn0%3D&allow_source=true&browser_family=safari&browser_version=0.0&enable_score=true&fast_bread=true&include_unavailable=true&lang=es&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=2863747&parent_domains=twitchplayer&platform=web&play_session_id=afd3b87d018c441dbbee9b743784d88b&player_backend=mediaplayer&player_version=1.50.0-rc.4&playlist_include_framerate=true&reassignments_supported=true&sig=256ae3ed82a3091d3f72183ac9b08fe4e25d6104&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22teledigitalpascanas%22%2C%22channel_id%22%3A1210278632%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%227c4240b4b9436c4f%22%2C%22expires%22%3A1774030255%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.14.41.153%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-name="Ciudad Televisión Resistencia, Chaco" tvg-logo="https://5900.tv/wp-content/uploads/2023/03/ciudadtv.jpg",Ciudad Televisión Resistencia, Chaco
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
+#EXTINF:-1 tvg-name="Cosmos TV San Juan" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/CosmosTV.jpg",Cosmos TV San Juan
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-name="Ver TV Venado Tuerto" tvg-logo="https://5900.tv/wp-content/uploads/2024/07/VerTV.jpg",Ver TV Venado Tuerto
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 5 del Pueblo" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/Canal5delpueblo-1.jpg",Canal 5 del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-name="El Lider TV Misiones" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/ellidertv.jpg",El Lider TV Misiones
+https://5f700d5b2c46f.streamlock.net/ellidertvonline/ellidertvonline/media_w2068542933_329547.ts
+#EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://5900.tv/wp-content/uploads/2023/06/latina-tv.jpg",Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:-1 tvg-name="Terra Mía TV" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/TerramiaTV.jpg",Terra Mía TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+#EXTINF:-1 tvg-name="Quántica TV" tvg-logo="https://5900.tv/wp-content/uploads/2025/10/quanticatv.jpg",Quántica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1 tvg-name="Salsa Gorda TV" tvg-logo="https://5900.tv/wp-content/uploads/2024/01/salsa-gorda-tv.jpg",Salsa Gorda TV
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-name="Guaymate TV República Dominicana" tvg-logo="https://5900.tv/wp-content/uploads/2025/05/guaymatetv.jpg",Guaymate TV República Dominicana
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Playa TV Villa Gesell" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/playaTV-2.jpg",Playa TV Villa Gesell
+https://videostream.shockmedia.com.ar:19360/playatv/playatv.m3u8
+#EXTINF:-1 tvg-name="UCL Uruguay" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/ucl-logo.jpg",UCL Uruguay
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-name="Record News Brasil" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/record-news-1280x720-1.jpg",Record News Brasil
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-name="TV Cultura Brasil" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/tv-cultura.jpg",TV Cultura Brasil
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-name="Carioca TV Brasil" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/CariocaTV.jpg",Carioca TV Brasil
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede Brasil de Televisão" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/rede-brasil.jpg",Rede Brasil de Televisão
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Mar Puerto Vallarta, México" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/TVmar-puerto-vallarta.jpg",TV Mar Puerto Vallarta, México
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-name="RAI 3 Roma Italia" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/RAI3.jpg",RAI 3 Roma Italia
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="RT en Español" tvg-logo="https://5900.tv/wp-content/uploads/2018/07/rt-en-espanol.jpg",RT en Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="Hispan TV Irán" tvg-logo="https://5900.tv/wp-content/uploads/2023/09/HispanTTV.jpg",Hispan TV Irán
+https://live.presstv.ir/hls/hispantv_2_482/index.m3u8
+#EXTINF:-1 tvg-name="Canal 9 La Rioja",Canal 9 La Rioja
+http://mediacp.live:2000/12014/12014/playlist.m3u8
