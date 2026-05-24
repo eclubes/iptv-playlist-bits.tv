@@ -291,8 +291,8 @@ https://tv.streaming.com.bo/atvargentina/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-id="lat:1.1s" group-title="Deportes",TyC Sports (1080p) [ONLINE]
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-id="lat:8s" group-title="Deportes",DirecTV Sports (1080p) [LENTO] [PROBABLE]
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" tvg-id="lat:8s" group-title="Deportes",ESPN (1080p) [LENTO] [PROBABLE]
+https://bd2ih.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.80.157.123&token=4464d5c846d533ae00112db406cc14d3c452bf17-4e-1779686739-1779632739
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png" tvg-id="lat:1.04s" group-title="Internacional",Rai 3 Roma Italia [ONLINE]
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
