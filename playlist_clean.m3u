@@ -1,295 +1,301 @@
 #EXTM3U
-# Generado:  2026-05-24 15:22:43
+# Generado:  2026-05-27 13:08:06
 # Scanner:   IPTV Scanner Ultimate AR
-# Canales:   102
+# Canales:   104
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" tvg-id="lat:0.06s" group-title="Argentina",Radiocanal San Francisco (1080p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" tvg-id="lat:0.07s" group-title="Argentina",Radiocanal San Francisco (1080p) [ONLINE]
 http://204.199.3.2/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OI97Sgq.png" tvg-id="lat:0.3s" group-title="Argentina",Canal 13 La Rioja (480p) [ONLINE]
-http://arcast.net:1935/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBsry35.png" tvg-id="lat:0.32s" group-title="Argentina",Cadena 103 (720p) [Not 24/7] [ONLINE]
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lat:0.32s" group-title="Argentina",En Directo [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OI97Sgq.png" tvg-id="lat:0.32s" group-title="Argentina",Canal 13 La Rioja (480p) [ONLINE]
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/El_Trece_logo_%282021%29.png" tvg-id="lat:0.33s" group-title="Argentina",Eltrecetv [ONLINE]
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="lat:0.33s" group-title="Argentina",En Directo [ONLINE]
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lat:0.33s" group-title="Argentina",El Garage Tv [ONLINE]
+#EXTINF:-1 tvg-id="lat:0.37s" group-title="Argentina",El Garage Tv [ONLINE]
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="lat:0.36s" group-title="Argentina",Playa Tv Villa Gesell [ONLINE]
-https://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" tvg-id="lat:0.4s" group-title="Argentina",NG Federal (720p) [ONLINE]
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" tvg-id="lat:0.4s" group-title="Argentina",Telenord Corrientes (1080p) [Not 24/7] [ONLINE]
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-id="lat:0.42s" group-title="Argentina",Canal 9 Resistencia (720p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-id="lat:0.41s" group-title="Argentina",Canal 9 Resistencia (720p) [ONLINE]
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" tvg-id="lat:0.43s" group-title="Argentina",5TV Corrientes (480p) [Not 24/7] [ONLINE]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" tvg-id="lat:0.48s" group-title="Argentina",NG Federal (720p) [ONLINE]
-http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="lat:0.47s" group-title="Argentina",Americatv [ONLINE]
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/e4564f3f-2e02-4dcd-aab6-3fe22e23239d:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-id="lat:0.49s" group-title="Argentina",Americatv [ONLINE]
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/4ab7dc19-58dd-4a42-9c87-711c08ac8344:SCL2/master.m3u8
+#EXTINF:-1 tvg-id="lat:0.52s" group-title="Argentina",Playa Tv Villa Gesell [ONLINE]
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
-#EXTINF:-1 tvg-id="lat:0.52s" group-title="Argentina",En Vivo On Mexico [ONLINE]
+#EXTINF:-1 tvg-id="lat:0.57s" group-title="Argentina",Perfil [ONLINE]
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=377827317
+
+#EXTINF:-1 tvg-id="lat:0.58s" group-title="Argentina",Carastv [ONLINE]
+https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/carastv/livestream2/chunks.m3u8?nimblesessionid=377828217
+
+#EXTINF:-1 tvg-id="lat:0.6s" group-title="Argentina",En Vivo On Mexico [ONLINE]
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="lat:0.68s" group-title="Argentina",Media 1000.M3U8 [ONLINE]
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/5653641561b4eba30a7e4929/publish/media_1000.m3u8?aid=51c2f628b440bd797900051f&amp;dnt=true&amp;uid=2BKrFVtKodc5O3oPpa5JSwKGbvvEyeFj&amp;sid=nJtdS4oudx49CgMT2Lh9w0FihwS6tN1d&amp;pid=mnPkCNSlwMF5qRvSrPFgKEpOYSM7UsI1&amp;ref=mdstrm.com&amp;es=us-b4-p-e-cg11.cdn.mdstrm.com&amp;ote=1779326264375&amp;ot=2tU0kmPRjujntto0tbF48Q&amp;proto=https&amp;pz=us&amp;CMCD=cid%3D%225653641561b4eba30a7e4929%22%2Cmtp%3D74100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22mnPkCNSlwMF5qRvSrPFgKEpOYSM7UsI1%22
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" tvg-id="lat:0.7s" group-title="Argentina",Canal 21 TV (1080p) [ONLINE]
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="lat:0.87s" group-title="Argentina",Tv [ONLINE]
-https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="lat:0.91s" group-title="Argentina",Neo Tv [ONLINE]
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-id="lat:0.92s" group-title="Argentina",Quantica Tv [ONLINE]
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-id="lat:1.04s" group-title="Argentina",Disney Jr. Latin America South [ONLINE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-id="lat:0.67s" group-title="Argentina",Disney Jr. Latin America South [ONLINE]
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="lat:1.05s" group-title="Argentina",El Lider Tv Misiones [ONLINE]
-https://5f700d5b2c46f.streamlock.net/ellidertvonline/ellidertvonline/chunklist_w2068542933.m3u8
+#EXTINF:-1 tvg-id="lat:0.88s" group-title="Argentina",Tv [ONLINE]
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal_9_La_Rioja_%28Logo_2020%29.png" tvg-id="lat:1.05s" group-title="Argentina",Canal9 [ONLINE]
-https://stream.inliveserver.com:19360/8030/8030.m3u8
+#EXTINF:-1 tvg-id="lat:0.96s" group-title="Argentina",Quantica Tv [ONLINE]
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
-#EXTINF:-1 tvg-id="lat:1.12s" group-title="Argentina",Actualidad [ONLINE]
-https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" tvg-id="lat:1.14s" group-title="Argentina",Telemax [ONLINE]
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:-1 tvg-id="lat:1.22s" group-title="Argentina",Cosmos Tv San Juan [ONLINE]
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-id="lat:1.25s" group-title="Argentina",Canal 26 (1080p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-id="lat:1.04s" group-title="Argentina",Canal 26 (1080p) [ONLINE]
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R4wXVxf.png" tvg-id="lat:1.29s" group-title="Argentina",Canal 22 (720p) [ONLINE]
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="lat:1.09s" group-title="Argentina",Neo Tv [ONLINE]
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NcfMC29.png" tvg-id="lat:1.31s" group-title="Argentina",Canal 13 San Luis [ONLINE]
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-id="lat:1.17s" group-title="Argentina",Actualidad [ONLINE]
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Urbanmix.png" tvg-id="lat:1.38s" group-title="Argentina",Urban Mix (720p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal_9_La_Rioja_%28Logo_2020%29.png" tvg-id="lat:1.17s" group-title="Argentina",Canal9 [ONLINE]
+https://stream.inliveserver.com:19360/8030/8030.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8xqYg4C.png" tvg-id="lat:1.23s" group-title="Argentina",RTN (Neuquén) (720p) [Not 24/7] [ONLINE]
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" tvg-id="lat:1.28s" group-title="Argentina",Canal 21 TV (1080p) [ONLINE]
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lat:1.32s" group-title="Argentina",Cosmos Tv San Juan [ONLINE]
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-id="lat:1.33s" group-title="Argentina",El Lider Tv Misiones [ONLINE]
+https://5f700d5b2c46f.streamlock.net/ellidertvonline/ellidertvonline/chunklist_w2068542933.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" tvg-id="lat:1.34s" group-title="Argentina",Telemax [ONLINE]
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Urbanmix.png" tvg-id="lat:1.36s" group-title="Argentina",Urban Mix (720p) [ONLINE]
 https://cloud.tvomix.com/URBANMIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" tvg-id="lat:1.46s" group-title="Argentina",Canal 34 San Juan (720p) [ONLINE]
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXBLozl.png" tvg-id="lat:1.39s" group-title="Argentina",Radio TV Neuquén (720p) [Not 24/7] [ONLINE]
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" tvg-id="lat:1.48s" group-title="Argentina",Tele Posadas (720p) [ONLINE]
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+#EXTINF:-1 tvg-id="lat:1.41s" group-title="Argentina",Canal 10 Rio Negro [ONLINE]
+https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/chunklist_w1785762844_b2186330_tkd293emF0b2tlbmVuZHRpbWU9MTc3OTkwNDU2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9QmdqSXFxcTI3Mi1pcjM1WnBJNDVDNG5VWnpMLWZLc2hsWGpMcnZpRWQxcz0=.m3u8
 
-#EXTINF:-1 tvg-id="lat:1.48s" group-title="Argentina",Canal 10 Rio Negro [ONLINE]
-https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/chunklist_w678876949_b2146013_tkd293emF0b2tlbmVuZHRpbWU9MTc3OTY1MzQ2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9R3k1bDRrVkFSMWs3OG5SVDE5QTg5ZWhjR2hYdkgyMHBLTnJ6MVNLN0ltRT0=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" tvg-id="lat:1.5s" group-title="Argentina",Canal 13 Jujuy TV (720p) [ONLINE]
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" tvg-id="lat:1.65s" group-title="Argentina",Misiones Cuatro [ONLINE]
-https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L9KCdTX.png" tvg-id="lat:1.67s" group-title="Argentina",Radio Realpolitik (720p) [ONLINE]
-https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLaausJ.png" tvg-id="lat:1.68s" group-title="Argentina",VerTV (VTV) (720p) [Not 24/7] [ONLINE]
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" tvg-id="lat:1.69s" group-title="Argentina",Canal 4 Jujuy [ONLINE]
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" tvg-id="lat:1.69s" group-title="Argentina",Canal 79 La Costa (240p) [ONLINE]
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" tvg-id="lat:1.69s" group-title="Argentina",Uniteve (720p) [Not 24/7] [ONLINE]
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b6RerDw.png" tvg-id="lat:1.72s" group-title="Argentina",Chaco TV (720p) [Not 24/7] [ONLINE]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" tvg-id="lat:1.72s" group-title="Argentina",Power Max Radio TV (720p) [ONLINE]
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" tvg-id="lat:1.74s" group-title="Argentina",Xtrema Terror [ONLINE]
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png" tvg-id="lat:1.75s" group-title="Argentina",Xtrema Cine Clasico [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png" tvg-id="lat:1.61s" group-title="Argentina",Xtrema Cine Clasico [ONLINE]
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" tvg-id="lat:1.78s" group-title="Argentina",Canal 2 de Ushuaia (1080p) [ONLINE]
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" tvg-id="lat:1.63s" group-title="Argentina",Xtrema Terror [ONLINE]
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" tvg-id="lat:1.79s" group-title="Argentina",Canal 79 Mar del Plata [ONLINE]
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4wXVxf.png" tvg-id="lat:1.74s" group-title="Argentina",Canal 22 (720p) [ONLINE]
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-id="lat:1.79s" group-title="Argentina",Xtrema Cartoons [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" tvg-id="lat:1.75s" group-title="Argentina",Power Max Radio TV (720p) [ONLINE]
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" tvg-id="lat:1.77s" group-title="Argentina",Tele Posadas (720p) [ONLINE]
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-id="lat:1.77s" group-title="Argentina",Xtrema Cartoons [ONLINE]
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-id="lat:1.79s" group-title="Argentina",Xtrema Accion [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcfMC29.png" tvg-id="lat:1.78s" group-title="Argentina",Canal 13 San Luis [ONLINE]
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L9KCdTX.png" tvg-id="lat:1.82s" group-title="Argentina",Radio Realpolitik (720p) [ONLINE]
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-id="lat:1.84s" group-title="Argentina",Xtrema Accion [ONLINE]
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" tvg-id="lat:1.85s" group-title="Argentina",Canal 4 Posadas (576p) [ONLINE]
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="lat:1.85s" group-title="Argentina",TeleCinco Trelew (240p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-id="lat:1.9s" group-title="Argentina",TeleCinco Trelew (240p) [ONLINE]
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W2EUIL2.png" tvg-id="lat:1.9s" group-title="Argentina",Sicardi TV (720p) [ONLINE]
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" tvg-id="lat:1.94s" group-title="Argentina",Uniteve (720p) [Not 24/7] [ONLINE]
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" tvg-id="lat:1.91s" group-title="Argentina",Canal 79 Puan (240p) [ONLINE]
-https://streamconex.com:19360/puan/puan.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" tvg-id="lat:1.95s" group-title="Argentina",Misiones Cuatro [ONLINE]
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png" tvg-id="lat:1.91s" group-title="Argentina",Radio Sublime Gracia TV (720p) [ONLINE]
-https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-id="lat:1.93s" group-title="Argentina",El Trece (1080p) [ONLINE]
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" tvg-id="lat:2.01s" group-title="Argentina",Canal 9 Televida [ONLINE]
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-id="lat:2.02s" group-title="Argentina",NET TV (720p) [ONLINE]
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" tvg-id="lat:2.02s" group-title="Argentina",TV Solidaria (576p) [ONLINE]
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gsgXGEj.png" tvg-id="lat:2.03s" group-title="Argentina",TIV Television (720p) [ONLINE]
-https://videohd.live:19360/8008/8008.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-id="lat:2.07s" group-title="Argentina",FIFA+ Hispanic America (720p) [ONLINE]
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" tvg-id="lat:2.08s" group-title="Argentina",Argentinísima Satelital (540p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" tvg-id="lat:1.99s" group-title="Argentina",Argentinísima Satelital (540p) [ONLINE]
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-id="lat:2.09s" group-title="Argentina",Kpop Mix (720p) [ONLINE]
-https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" tvg-id="lat:2.01s" group-title="Argentina",Canal 2 de Ushuaia (1080p) [ONLINE]
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" tvg-id="lat:2.15s" group-title="Argentina",Canal 79 Santa Clara del Mar (240p) [ONLINE]
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" tvg-id="lat:2.02s" group-title="Argentina",Canal 9 Televida [ONLINE]
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" tvg-id="lat:2.18s" group-title="Argentina",Cumbia Mix (720p) [ONLINE]
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLaausJ.png" tvg-id="lat:2.02s" group-title="Argentina",VerTV (VTV) (720p) [Not 24/7] [ONLINE]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OamBiS5.png" tvg-id="lat:2.21s" group-title="Argentina",Canal 6 Posadas (1080p) [ONLINE]
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png" tvg-id="lat:2.04s" group-title="Argentina",Radio Sublime Gracia TV (720p) [ONLINE]
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" tvg-id="lat:2.22s" group-title="Argentina",Canal 11 de la Costa (720p) [ONLINE]
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsgXGEj.png" tvg-id="lat:2.06s" group-title="Argentina",TIV Television (720p) [ONLINE]
+https://videohd.live:19360/8008/8008.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXS38zo.png" tvg-id="lat:2.22s" group-title="Argentina",Radio Conexion Web TV (720p) [ONLINE]
-https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" tvg-id="lat:2.07s" group-title="Argentina",Canal 34 San Juan (720p) [ONLINE]
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-id="lat:2.25s" group-title="Argentina",Canal E (720p) [ONLINE]
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" tvg-id="lat:2.25s" group-title="Argentina",Celta TV (240p) [ONLINE]
-https://vivo.solumedia.com:19360/celta/celta.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" tvg-id="lat:2.25s" group-title="Argentina",Más FM 95.9 (720p) [ONLINE]
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-
-#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" tvg-id="lat:2.27s" group-title="Argentina",Canal Pulpo TV [ONLINE]
-https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" tvg-id="lat:2.34s" group-title="Argentina",Canal 2 Misiones (1080p) [ONLINE]
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" tvg-id="lat:2.34s" group-title="Argentina",Unife TV [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" tvg-id="lat:2.07s" group-title="Argentina",Unife TV [ONLINE]
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" tvg-id="lat:2.4s" group-title="Argentina",Catamarca TV (720p) [ONLINE]
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" tvg-id="lat:2.13s" group-title="Argentina",Canal 4 Posadas (576p) [ONLINE]
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" tvg-id="lat:2.42s" group-title="Argentina",Canal 10 Cordoba [ONLINE]
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2EUIL2.png" tvg-id="lat:2.17s" group-title="Argentina",Sicardi TV (720p) [ONLINE]
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" tvg-id="lat:2.43s" group-title="Argentina",Beats Radio (480p) [ONLINE]
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" tvg-id="lat:2.21s" group-title="Argentina",Canal 79 Puan (240p) [ONLINE]
+https://streamconex.com:19360/puan/puan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" tvg-id="lat:2.28s" group-title="Argentina",Metro TV (720p) [ONLINE]
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OamBiS5.png" tvg-id="lat:2.31s" group-title="Argentina",Canal 6 Posadas (1080p) [ONLINE]
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-id="lat:2.31s" group-title="Argentina",El Trece (1080p) [ONLINE]
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" tvg-id="lat:2.34s" group-title="Argentina",Canal Pulpo TV [ONLINE]
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" tvg-id="lat:2.35s" group-title="Argentina",Canal 11 de la Costa (720p) [ONLINE]
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" tvg-id="lat:2.36s" group-title="Argentina",Canal 4 Jujuy [ONLINE]
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" tvg-id="lat:2.36s" group-title="Argentina",Canal 79 Mar del Plata [ONLINE]
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" tvg-id="lat:2.38s" group-title="Argentina",Canal 79 La Costa (240p) [ONLINE]
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXS38zo.png" tvg-id="lat:2.42s" group-title="Argentina",Radio Conexion Web TV (720p) [ONLINE]
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-id="lat:2.43s" group-title="Argentina",NET TV (720p) [ONLINE]
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" tvg-id="lat:2.44s" group-title="Argentina",Litus TV (720p) [ONLINE]
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" tvg-id="lat:2.45s" group-title="Argentina",Cumbia Mix (720p) [ONLINE]
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0fMypR.png" tvg-id="lat:2.45s" group-title="Argentina",TV Solidaria (576p) [ONLINE]
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" tvg-id="lat:2.48s" group-title="Argentina",Canal Orbe 21 [ONLINE]
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" tvg-id="lat:2.49s" group-title="Argentina",Metro TV (720p) [ONLINE]
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsCnwRA.png" tvg-id="lat:2.52s" group-title="Argentina",Canal 4 San Juan (576p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsCnwRA.png" tvg-id="lat:2.54s" group-title="Argentina",Canal 4 San Juan (576p) [ONLINE]
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" tvg-id="lat:2.53s" group-title="Argentina",Azahares Radio Multimedia (720p) [ONLINE]
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" tvg-id="lat:2.54s" group-title="Argentina",Más FM 95.9 (720p) [ONLINE]
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" tvg-id="lat:2.64s" group-title="Argentina",Litus TV (720p) [ONLINE]
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" tvg-id="lat:2.56s" group-title="Argentina",Celta TV (240p) [ONLINE]
+https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" tvg-id="lat:2.67s" group-title="Argentina",Canal 7 Neuquén (1080p) [ONLINE]
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" tvg-id="lat:2.59s" group-title="Argentina",Canal 79 Santa Clara del Mar (240p) [ONLINE]
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" tvg-id="lat:2.68s" group-title="Argentina",Canal 5 Del Pueblo [Not 24/7] [ONLINE]
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-id="lat:2.63s" group-title="Argentina",Alterna TV (720p) [Not 24/7] [ONLINE]
+https://tv.alterna.ar/stream/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jars0mP.png" tvg-id="lat:2.68s" group-title="Argentina",TV Maná Argentina (576p) [Not 24/7] [ONLINE]
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-id="lat:2.66s" group-title="Argentina",Kpop Mix (720p) [ONLINE]
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" tvg-id="lat:2.67s" group-title="Argentina",Canal 2 Misiones (1080p) [ONLINE]
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" tvg-id="lat:2.69s" group-title="Argentina",Canal 10 Cordoba [ONLINE]
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-id="lat:2.69s" group-title="Argentina",Canal E (720p) [ONLINE]
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jars0mP.png" tvg-id="lat:2.69s" group-title="Argentina",TV Maná Argentina (576p) [Not 24/7] [ONLINE]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" tvg-id="lat:2.71s" group-title="Argentina",Canal 7 Salta (1080p) [ONLINE]
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-id="lat:2.7s" group-title="Argentina",FIFA+ Hispanic America (720p) [ONLINE]
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xqYg4C.png" tvg-id="lat:2.71s" group-title="Argentina",RTN (Neuquén) (720p) [Not 24/7] [ONLINE]
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" tvg-id="lat:2.77s" group-title="Argentina",Catamarca TV (720p) [ONLINE]
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" tvg-id="lat:2.77s" group-title="Argentina",24/7 Canal de Noticias [ONLINE]
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" tvg-id="lat:2.79s" group-title="Argentina",Azahares Radio Multimedia (720p) [ONLINE]
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kVi0ICm.png" tvg-id="lat:2.77s" group-title="Argentina",Radio Yguazú TV (480p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVi0ICm.png" tvg-id="lat:2.86s" group-title="Argentina",Radio Yguazú TV (480p) [ONLINE]
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" tvg-id="lat:2.79s" group-title="Argentina",Canal 7 Jujuy [ONLINE]
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WX0esjQ.png" tvg-id="lat:2.81s" group-title="Argentina",Canal 5 Santa Fe (240p) [ONLINE]
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="lat:2.84s" group-title="Argentina",Aire de Santa Fe (1080p) [ONLINE]
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXBLozl.png" tvg-id="lat:2.91s" group-title="Argentina",Radio TV Neuquén (720p) [Not 24/7] [ONLINE]
-https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" tvg-id="lat:2.92s" group-title="Argentina",Canal 3 La Pampa (1080p) [ONLINE]
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" tvg-id="lat:2.93s" group-title="Argentina",Cable Imagen Armstrong (540p) [Not 24/7] [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" tvg-id="lat:2.88s" group-title="Argentina",Cable Imagen Armstrong (540p) [Not 24/7] [ONLINE]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" tvg-id="lat:2.93s" group-title="Argentina",Canal 7 Santiago del Estero (720p) [ONLINE]
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" tvg-id="lat:2.96s" group-title="Argentina",24/7 Canal de Noticias [ONLINE]
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" tvg-id="lat:2.94s" group-title="Argentina",Canal 3 Las Heras (720p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" tvg-id="lat:2.97s" group-title="Argentina",Canal 7 Jujuy [ONLINE]
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" tvg-id="lat:3.02s" group-title="Argentina",Beats Radio (480p) [ONLINE]
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" tvg-id="lat:3.03s" group-title="Argentina",Canal 5 Del Pueblo [Not 24/7] [ONLINE]
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" tvg-id="lat:3.05s" group-title="Argentina",Canal 3 Las Heras (720p) [ONLINE]
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" tvg-id="lat:3.03s" group-title="Argentina",Canal 9 Litoral (720p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WX0esjQ.png" tvg-id="lat:3.1s" group-title="Argentina",Canal 5 Santa Fe (240p) [ONLINE]
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CudG6sl.png" tvg-id="lat:3.16s" group-title="Argentina",Canal 7 Salta (1080p) [ONLINE]
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="lat:3.17s" group-title="Argentina",Aire de Santa Fe (1080p) [ONLINE]
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" tvg-id="lat:3.3s" group-title="Argentina",Canal 3 La Pampa (1080p) [ONLINE]
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" tvg-id="lat:3.32s" group-title="Argentina",Canal 9 Litoral (720p) [ONLINE]
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" tvg-id="lat:4.37s" group-title="Argentina",Bravo TV [ONLINE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" tvg-id="lat:3.33s" group-title="Argentina",Canal 7 Santiago del Estero (720p) [ONLINE]
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" tvg-id="lat:4.87s" group-title="Argentina",Bravo TV [ONLINE]
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 
-#EXTINF:-1 tvg-id="lat:0.42s" group-title="Argentina",Canal Showsport Cordoba [PROBABLE]
-https://sae13.playlist.ttvnw.net/v1/playlist/CuAGHfoYwfSV_wOawgnrLicczUGnf0zAlAhQOpQMu8hqelprv4094aNFO9RiEq6MEmfp-bLYwzn_vq734W_qEpfjAq_LFDN4T3WOWiJyKukUQd3OG2_UW0oVR-l9h5tStinV_Hljca_tV0B1W4WgYblRbkOdKxQERmLsIKyzGvIxM25bQjjdMq2mDGXM4BcjPOuHcggbsy6cfKK9OzGaD2iv36XGY87q4N6XQSCns7ckPFtylSaZGeEvE55AN8wsVLqajxosLadfCyVNTst622e14tVBj7KuBVuN__seKrx5_DvE9RIUmr35AcVdy4aIOY9E9BhMoNeCHqWdYR8HuhV38MhUB2FnudzSFV_SgP_TFcWY01Yl6eSs4BcrAcLlO2PCb88UuEAyuoUg0izmEmrAuD0IvTZ8nHVqv0YwkvHvwJpojTrgae3IoKXCu-ENbL3k_FTFI2FNhQWHkKK35J3-42IyI3ng1k7aJOpV9Q6oJKwf5xUaft4WcfRdTnS7bNZnOLZgc1O0VYrzMiGTNjScdfkjGmNmRNsoeWfW1Fiv6HxSp8F3HciGMLXkWxxzN40MNkj7iHIa_X35XcSABTrxrgfk7Ch5zcm9ZXybCTUmgFVPNnc-epS3qi9IQoI2jhS-hR_XxGtMvGewC6Mb6MS5YAAYbVcX1IWOse0ruN3DAdyIRvSIQaxFyZCYAs9fQt9zzxieo88EijVmWIMQiZHIT81PWdmhFtZ5YqXIHxr3L22S8IIAptev-8I2QfVFi3QuxIDLbuO82j8DTA6oBb7u4SQHWZwgzmhsQ2LHzduw1WbuZusrCeEYb87p5mAWo192ul_OK_gdpolLd_5gr5w-9cXWLrsXLBoMUhFl3rQny6TrCsNGj7TgiS-qEymR8x1U2dQPhOdKa-PjDX1P7TdoDKKIpn3JGQte0cSqqwIroN3uhE3c6SjmCIzaf--1CQ0SK6rG4C7FJw2pw9XoAgxS4SsH3XnhZ5mh5kjjk036SoQQ1IPsaybStiBQVLS5M8Oi7qgy2bwBU1xKldd3snmI5HBILisBWF0URf5L3e-s3y4WhL0DSgY5aPwNIU3wm_oRWU4a1_4Ds2D3i7jqLydAAo5htKIyFT8eFHd7K2dJcQaq0mebzd4YBL4SWcJJFSBGGgy4clGnnmTm_yx5-O0gASoJdXMtZWFzdC0yMJgP.m3u8
+#EXTINF:-1 tvg-id="lat:0.44s" group-title="Argentina",Canal 13 Rio Cuarto [PROBABLE]
+https://sae12.playlist.ttvnw.net/v1/playlist/CvkGiIpbKVrOmS6TXIZux1LEVaedwon0S6patX71C8Hv0F7cuW9wJvmL0ThpqDVrjE3zX5UrwGaEvnlIptzx1AMaL3nf9NqDnr3i7LKHi3EfffRKIsvVEzlXqZJBrIeO-pRmImaXp_R6H-OFD6QQzJpNc62HOvvJdEBi-LhsTJgofajPke7s91Fl0bMUjUjYdUFi6hXt5MlyzBwEHxK811yRm_OZ7eByxqh7k_4zT-gppW2z8bWF7LjACNkGuCcH7cjQ6rVy8c6Wviu97RTpOvBezA9TAab4EODZV-zEPY9vOOP3h7uyeEkTZjCwmmZmWkalfFiAB9MRIEgNVlbp3b1-NzwlL56Je5DhS7hb4sklrQ3rncUIVIbc1Ia9T94LUmt6e0gkLSkli6jHKO5NjgRc276q4JZHc5PyyQTpsXGZrbK_ozN9cvbMs-CMl9v8dX8qVJRJB2HsvL0fDvsgIjY2npnLjL6KwBh5xL9L86m75_RZN1fDuYZ49-3rGkxfOlbbzw7prAneYOddFevXAowAIfbzPDEY5-DfDA2zje5ZYZ880xTcMxtlBs4pgi2I5NvCRsw-f6_gL6EnREXXWFgKG983YRgXXxPLk_-DYdyZjH0FPdR8t6f1qbY0vLZbDksIWnN8Slk3KI3kNJQWfz-Vp_4uUts_gJAUO7bnn4do7RsnRjOCrSZALtuDiIYwHb-vMPlfqySDRTlTbA6Y4Ys2P87qD_vqRLN35hPUf15XoVTxL4L3BBes7J15hBGH4q4RolDExZtcdmnj4EyVhM-E7p059giiStBHpoMoIOiB56tB5pLLbhmBEyiWaXXIlRa2xcE8CjQ8oU3PntFECyU2srXCscjqWZiL6ZziyRo3PZBMOTSUsFZT_ycbe4_cYDUQYyDe3lQJbp5o2omqtBWxqiMmbX1vqR2yZDrLsBZ82CriiC-KB7qG_m81ahGrCSha_QQT6k0xGwaOOO5HufbeFFiAsqYhxX8Cz_H-6tlYG442rdjAY_WuB2xXCu_ckjZCiYxlwLD84TM6pF0YF1ejtLm7Y-qy7HI3u9hEEbQ41IZrxBNzgLjHXb_Em3yXuzV-4iSfUiDyrnbJ702XZ22_kgYk-SmdhFxf2g2sRT41PHlP2jGksU1vG_IyvOGOEQ6_bh5FOGax3yyenrBABizUdB3r4jJANqRnzhoMdUI3zylLBr55ZJqkIAEqCXVzLWVhc3QtMjCbDw.m3u8
 
-#EXTINF:-1 tvg-id="lat:0.43s" group-title="Argentina",Canal 13 Rio Cuarto [PROBABLE]
-https://sae11.playlist.ttvnw.net/v1/playlist/CvsGE42gy_eFhrCI-tLKh8eCDzeb_5-fOTt0_081nKGS3j9YOC9m017i4uDreWj6lHXYdWr5fr1BMJ36efYSu1x2GEdlvXa1QrUuUaXPWZFbnfun0_B9gIokZUgs5WewF7j7SOdteIT51-xXho9KkELT1TAkWoSeM9SLxSqkYDUynwS8HdARb6PTj-fRvlzWHGKpLDUKBdl1jzgx_ta-s1u1w1PXWRdVNo2BP4H3kXZPfmpwCyav2-vPcV8WfWTqk7oDktn8ll4LqsLqTQ2nfIYxwIQqPz97qoN-Dg2Qv1V5HLDM0SJ4qa2e4PR9XGc0DF48t9rmKqFIPVeU4DNs0uLYSAFMbjxEjC287L6f5YiSSnp3YpRJG2MRyEyLI9ubBm-32ghBFqh4KgmJUhz37T7wlbs9MS0dSJvDHaSz6uOzBZ-nHYJ5Kfx2Mb8htclEZ1qXYBZo5wsoXP-2qfsji9XrMeobP8lmVIh4VrYf8t19MO9QaCZBLF6V9TBJctQ3oHPNOetVab6Q7oOoevajYHUdwjDp4gTJbzaEXGvVASnbv_Zl21w13OrABXQKXObmTbLy735mUKsiEpuT5qxcLXD1-ZHWnaT0_WeIBreUn_1rIXdygtGVNf56ozenwDtloCIsZhXIbp6EWJIrekGGEoWCT2aY3wx4DjB2JA6TQhYY2g0MksXrtP6EgQ1SPjDZE5Q9OpoRiO_zsG5WbVemNW3hFp0d1ja3GXytCVcU099IOCu0d6zcb3YpygN3M0MMksZUxp8kVrWtj0hOuTGQ3hW2wgvDdrlQq8YEx5MiZo74dZ_kcFrzsfSl71q4olqOJOjPkwrGUI59UWhOvQquobuPFN9euUN8kXLbzT5td4HwzOvTikAnZkoK_crT3FvaKrQ-DQuLXW2axhrSEIW3FNggu6hEFA5Ys-j_bJygqFzmWJK5MyVezdcCf8CZJy5P2LZkhTgokBJFOCNt_NSJzLV698tgDHan7iBnaXatXNWw1UwQudCwtvq7H7odqrnQTQRuPyA5wCfoGFJDliZEA-X4MFCt-eq2M2vr1P5vlvMmFWdapJ04FzuOHnZ8YZD8_lNC49qH98D-OjZ8R3WoqHAbUeCav506xtou2GNQn63QwkoZJRyal6uuQldx6qLOka3jPsdQe6N2ruUDdQfGKWZJNRTk3MzJbXhE04b3GgxeIT-jcc3yyBHHloUgASoJdXMtZWFzdC0yMJgP.m3u8
+#EXTINF:-1 tvg-id="lat:0.45s" group-title="Argentina",Teledigital Pascanas Cordoba [PROBABLE]
+https://sae11.playlist.ttvnw.net/v1/playlist/CvYGHdYSlpFm6mI-r6KA6XIalmtgtDHuc_OrT1uuYAs3GGiqOXV1hl3QZKLjNInFftScdf3ArtGDUcfgcTwB_LQ_lwneLQMKUFwU6HIYTj4uGu0-pBiT-LtQpivOep4NEbva3A2A-jHwHmcAOQvtHT3Lc0U_3zhvWYAePfcWzk-U0aBIYjQvYWqH3z5BMrPJ5-L4bCRtebOKoQDzN3NbgGaXBHguVTvY_jXKN5riPhBqQpw6tbGLGGhyIjHma5vvQStATb9-7VWNfjb-SulOvIBkIYlijY4K5raYg8m6951QAbG83zGPH8MI4VzxeADcLIlEmlAxc7_gE_e4aaeRBsVUH7UyQf7i6k-jegMASCtUWN82lsXnRVrRRkPtJ6U3B3zY6kbQ4uZlrpRRRZ7DWJjRORYxigIystUQcanKtzQHAVzE3oUXAWjvd8GWnStctTmjiD-2ytpPXRTV8fXaBEpcUqadfY84Tmlbq4HfTIENx1RPppqHmlLgx87PNQskToiaAaT0uzsdAJoy6mMPM3EnmQQCEwX00vMYzDgy3ATE6xnxRoJAgKxHKctjQHcu_coMZayIczHSyOXk4QX3NhtnMszKpZa2Z-Drb1sc0FI2yoTrvemF8d9RTzaP4Y_as7blzg9l-cle6Nb9hZi7mVvBIwtnqFYRNCdskQh8J0uJwGWMqlXEkrB4DrZ_ZdiDl6RoTPXYWg2hMq35hcy3VXqvj7aEeuzfNT83LK9bVB8gedgI6V8RacgHG80t88J46Vxm3-iWIYDlzZT2G4-CGN2jlrKRk9E5ZYR4CwZ9-kWE_3QK0ygwfWmRJYSJI3WV89OE6bREE1mD925U1ECz-DnmTVQ-ufEvQGJuHMC2d5Hh59yZin7_zu_RMXL68NLpTiIs4JGgvFULcwD4MQ3q5dPAUlvaI5zKj981V_zha4LiXt1z_J6s6eqHWjV-q4qGMd7MjFOnYUd93sFqS-op3X9mJyB-KQVY4NRA6cq1dP_vXZNqG1-xorsv4NwPSsSms1XLDuJ_H1vmRZ8g_4YiEG5AASbrRYCmBd1lmx7JFXW4BPzi8QOWnCOYsaQ3fbNeMtKe2e0r3jvh2m2etMKmwDs1MZqIt9rKa7mFN-CpCihDF7kaQs1dRhmnKJtFjGZRqBmShCggLGyGChjCfnkGL4VAaq8bOtYGTBoMPn4tTgySD9mmcPG9IAEqCXVzLWVhc3QtMjCbDw.m3u8
+
+#EXTINF:-1 tvg-id="lat:0.68s" group-title="Argentina",Canal Showsport Cordoba [PROBABLE]
+https://sae13.playlist.ttvnw.net/v1/playlist/CuEGzrFfSatKxa-mD3nUhGv3jGTMvmgN4o6LndAgMfwQJU4LyLHUKEkZY7wQH3KtGAaGlqtyg1RwSgBaqdjKNPb6FDhJyRt27q9m3cqOBMyiLufos-r3sC7A2sJCtxF9BFx8nX4oj8SazG8wAyqo7jMAubA3zOEXmH9J-yonYZ93BDN8eBYpTNS_kB1cerDD7kp18FwFGG0hvls9wtl3PRgUMTiWb0a9w6kWoAZONm3xYsCZjrDp5fS_aqoQWapnzriqISSmkkZZg4vRYEIftLXFmpoKKh5zF8m_KUdpIJWHfvBjZuLdIpgmKhHyqZLHkqDYVXK9fWg9J6C_SbH3k4_WFxiQlinPxMAEvbrUbNMETlmSz9pEm1T4a0G4gVw8GrZX9IbWThBZSjQ3ISfD9wsc-RoKntL3YCzkTrlfHBwn38oOSyfx2kQrWzPq1EXLsSeouX5OFRIcfwhIu8F1s8sLNjTRaEEzG7eG8u1zuQPPOGTC_abM0SWzmDYpdXQdc6bY3mrJc7bndtYI1039SgFLi2HqdNyCguXrTDq0nc0ykFad9HYAGbtLXUaKuFFjbnKUE5_GcR4SsmqonlFvkIe6_SMGx888jCaMU_q7pI5xT6jRabvt9uJDwKSWxnYVwJVyJA96CJ2SOdDE12HeM6zsV6kbQpkzfq-0DnN1xkwZ-4H4hY9_r2PI18WBAkGx-J2anf0v_BOYL6wk0HPiFyc4a0Iw59P1wNUXRE6CStcWrlx3vL7vogZvFQadNc4VbMXtmACwDoXMySQENSBvlZ8EhEChp5zxNVKHW9t4C6uVa2TIvoTo9RW02Af57Ao0hk1mnpa3PlK8g1rtsC5p4FDEb50glVWcGsY5P_lNebFgY_qB6yZGxnDZUrWEpdm3t65QVzWGacmocWBg6RiI2SwrT-13S5WfoQ1km0VttoVC9kaeh_O8z5POn3BT6Zqr_IgLhuI9Hk8yvgMtkRW_x1D1KnNMxa6Aua_G31XHn3tkgY7wtRbL5Wt3pq_ChYoAZ3kSFsNuw9P3hd4Wdl-LizM-RaLjEORn_zYgQUM63tsgJpDlHghuSTGxxW0K8L8ZIzf9omDT1jJAlGTx0QFtQdYazg8zOE3uHJH9LbCZTGeu82QIbAgM8ScOn6DCH7pH5ofLERoM6B90IntkyVZyaW-kIAEqCXVzLWVhc3QtMjCbDw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" tvg-id="lat:3.04s" group-title="Argentina",Canal 7 Neuquén (1080p) [PROBABLE]
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" tvg-id="lat:8s" group-title="Argentina",ATV Argentina [LENTO] [PROBABLE]
 https://tv.streaming.com.bo/atvargentina/index.m3u8
@@ -297,20 +303,19 @@ https://tv.streaming.com.bo/atvargentina/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-id="lat:8s" group-title="Argentina",TN (2160p) [LENTO] [PROBABLE]
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-id="lat:1.27s" group-title="Deportes",TyC Sports (1080p) [ONLINE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-id="lat:1.64s" group-title="Deportes",TyC Sports (1080p) [ONLINE]
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-id="lat:8s" group-title="Deportes",DirecTV Sports (1080p) [LENTO] [PROBABLE]
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png" tvg-id="lat:1.1s" group-title="Internacional",Rai 3 Roma Italia [ONLINE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png" tvg-id="lat:1.09s" group-title="Internacional",Rai 3 Roma Italia [ONLINE]
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/3840px-Rai_1_-_Logo_2016.svg.png" tvg-id="lat:1.14s" group-title="Internacional",Rai 1 Roma Italia [ONLINE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/3840px-Rai_1_-_Logo_2016.svg.png" tvg-id="lat:2.8s" group-title="Internacional",Rai 1 Roma Italia [ONLINE]
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="" group-title="Deportes",ESPN Premium
-https://iaw5b.envivoslatam.org:443/hotflix/espnpremium/index.m3u8?token=623bd4bcc8723c3d7c9930e5bc70b111b773376d-ad-1778766545-1778712545&ip=190.139.8.16
+
 
 
 
